@@ -1,0 +1,1 @@
+export const navList=["Home", "About Us", "Services", "Contact Us"];
